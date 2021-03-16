@@ -3,7 +3,7 @@ Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas
 -  Eu estou atualmente trabalhando como eletricista de manutenção
 -  Atualmente estudo React js e React Native,alem dos cursos da graduação.
 -  Constantemente desafio meus conhecimentos,saite que uso como referencia é https://www.frontendmentor.io. É uma otima ferramenta.
--  Ja conclui varios pequenos projetos como desenvolvedor, estou muito feliz com meu desenvolvimento. Aplicações simples e complexas.
+-  Ja conclui varios pequenos projetos como desenvolvedor, estou muito feliz com minha evolução. Aplicações simples e complexas.
 -  Veja   meu git hub. Não  usso apenas como ferramenta de publicação do meu esfoço,utlizo também de backup dos meus pequenos passos,então se estiver
 -  buscando algum conhecimento especifico de alguma ferramenta,pode ser que vai encontrar aqui. Loops,controles decisões,formularios,Hooks,Firebase,
 -  styled-compnents....

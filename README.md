@@ -1,5 +1,5 @@
 ### Oi eu sou Ricardo
-Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas 
+Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas. 
 -  Eu estou atualmente trabalhando como eletricista de manutenção.
 -  Atualmente estudo React js e React Native, alem dos cursos da graduação.
 -  Constantemente desafio meus conhecimentos, site que uso como referencia é https://www.frontendmentor.io. É uma otima ferramenta.

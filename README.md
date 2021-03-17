@@ -1,12 +1,11 @@
 ### Oi eu sou Ricardo
 Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas 
--  Eu estou atualmente trabalhando como eletricista de manutenção
--  Atualmente estudo React js e React Native,alem dos cursos da graduação.
--  Constantemente desafio meus conhecimentos,saite que uso como referencia é https://www.frontendmentor.io. É uma otima ferramenta.
+-  Eu estou atualmente trabalhando como eletricista de manutenção.
+-  Atualmente estudo React js e React Native, alem dos cursos da graduação.
+-  Constantemente desafio meus conhecimentos, site que uso como referencia é https://www.frontendmentor.io. É uma otima ferramenta.
 -  Ja conclui varios pequenos projetos como desenvolvedor, estou muito feliz com minha evolução. Aplicações simples e complexas.
--  Veja   meu git hub. Não  usso apenas como ferramenta de publicação dos trabalhos.Utlizo como backup dos meus pequenos passos,então se estiver
-buscando algum conhecimento especifico de alguma ferramenta,pode ser que vai encontrar aqui. Loops,controles decisões,formularios,Hooks,Firebase,
-styled-compnents....
+-  Veja   meu git hub. Não  usso apenas como ferramenta de publicação dos trabalhos. Utlizo como backup dos meus pequenos passos,então se estiver
+buscando algum conhecimento especifico de alguma ferramenta, pode ser que vai encontrar aqui. Loops, controles decisões, formularios, Hooks, Firebase, styled-compnents...
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=dark)

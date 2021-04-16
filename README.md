@@ -1,9 +1,9 @@
 ### Oi eu sou Ricardo
-Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas. 
--  Eu estou atualmente trabalhando como eletricista de manutenção.
--  Atualmente estudo React js e React Native, alem dos cursos da graduação.
+# Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas na FIAP
+-  Atualmente trabalho como eletricista de manutenção.
+-  Estudo muito e pratico  React js e React Native, alem dos cursos da graduação(web,JAVA,Python...)
 -  Constantemente desafio meus conhecimentos, site que uso como referencia é https://www.frontendmentor.io. 
--  Conclui varios  projetos pessoais como desenvolvedor. Aplicações simples e complexas.
+-  Conclui varios  projetos pessoais  desenvolvedondo em React. Aplicações desde de  simples ate complexas.
 -  Veja meu git hub. Não  usso apenas como ferramenta de publicação. Utlizo muito como backup do meu aprendizado,então se estiver
 buscando algum conhecimento especifico de alguma ferramenta, pode ser que vai encontrar aqui. Loops, controles decisões, formularios, Hooks, Firebase, styled-compnents...
 

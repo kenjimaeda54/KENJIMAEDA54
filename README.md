@@ -1,5 +1,5 @@
-### Oi eu sou Ricardo
-# Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas na FIAP
+# Oi eu sou Ricardo
+### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas na FIAP
 -  Atualmente trabalho como eletricista de manutenção.
 -  Estudo muito e pratico  React js e React Native, alem dos cursos da graduação(web,JAVA,Python...)
 -  Constantemente desafio meus conhecimentos, site que uso como referencia é https://www.frontendmentor.io. 

@@ -10,7 +10,7 @@ buscando algum conhecimento especifico de alguma ferramenta, pode ser que vai en
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimaeda54&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Ricardo)](https://github.com/kenjimaeda54/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda54)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

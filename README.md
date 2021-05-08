@@ -1,5 +1,4 @@
 # Oi eu sou Ricardo
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true)
 ### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas na FIAP
 -  Atualmente trabalho como eletricista de manutenção.
 -  Estudo muito e pratico  React js e React Native, alem dos cursos da graduação(web,JAVA,Python...)

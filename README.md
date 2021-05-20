@@ -1,5 +1,5 @@
 # Oi eu sou Ricardo
-### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas na FIAP
+### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas 
 -  Linguguens é ferramentas que uso constantemente Type Script,React,Firebase,Hooks,CSS é Java Script
 -  Sou fascinando em boas praticas,princpio de arquiteturas de sofwtare é clean code.
 -  Gosto muito de  https://www.frontendmentor.io é otimo saite, consigo praticar minhas skill é me divulgar ao mundo. 

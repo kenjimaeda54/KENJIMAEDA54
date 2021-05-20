@@ -4,7 +4,7 @@
 -  Sou fascinado em boas praticas,principio de arquiteturas de software é clean code.
 -  Gosto muito de  https://www.frontendmentor.io é otimo saite, consigo praticar minhas skill é me divulgar ao mundo. 
 -  Conclui varios  projetos pessoais  desenvolvendo em React. Aplicações simples ate complexas.
--  Meu git hub esta repleto de repositorios. Utlizo muito como backup dos meu aprendizados é trabalhos que realizei. 
+-  Meu git hub esta repleto de repositorios. Utilizo muito como backup dos meu aprendizados é trabalhos que realizei. 
  
 
 

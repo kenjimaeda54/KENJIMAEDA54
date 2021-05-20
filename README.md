@@ -1,11 +1,12 @@
 # Oi eu sou Ricardo
 ### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas na FIAP
--  Atualmente trabalho como eletricista de manutenção.
--  Estudo muito e pratico  React js e React Native, alem dos cursos da graduação(web,JAVA,Python...)
--  Constantemente desafio meus conhecimentos, site que uso como referencia é https://www.frontendmentor.io. 
+-  Linguguens é ferramentas que uso constantemente Type Script,React,Firebase,Hooks,CSS é Java Script
+-  Sou fascinando em boas praticas,princpio de arquiteturas de sofwtare é clean code.
+-  Gosto muito de  https://www.frontendmentor.io é otimo saite, consigo praticar minhas skill é me divulgar ao mundo. 
 -  Conclui varios  projetos pessoais  desenvolvedondo em React. Aplicações desde de  simples ate complexas.
--  Veja meu git hub. Não  usso apenas como ferramenta de publicação. Utlizo muito como backup do meu aprendizado,então se estiver
-buscando algum conhecimento especifico de alguma ferramenta, pode ser que vai encontrar aqui. Loops, controles decisões, formularios, Hooks, Firebase, styled-compnents...
+-  Meu git hub esta repleto de repositorios. Utlizo muito como backup dos meu aprendizados é trabalhos que realizei. 
+ 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=gruvbox)

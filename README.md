@@ -3,7 +3,7 @@
 -  Linguguens é ferramentas que uso constantemente Type Script,React,Firebase,Hooks,CSS é Java Script
 -  Sou fascinando em boas praticas,princpio de arquiteturas de sofwtare é clean code.
 -  Gosto muito de  https://www.frontendmentor.io é otimo saite, consigo praticar minhas skill é me divulgar ao mundo. 
--  Conclui varios  projetos pessoais  desenvolvedondo em React. Aplicações desde de  simples ate complexas.
+-  Conclui varios  projetos pessoais  desenvolvendo em React. Aplicações desde de  simples ate complexas.
 -  Meu git hub esta repleto de repositorios. Utlizo muito como backup dos meu aprendizados é trabalhos que realizei. 
  
 

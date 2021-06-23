@@ -1,9 +1,8 @@
 # Oi eu sou Ricardo
 ### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas 
- Linguagens e ferramentas que uso constantemente Type Script, React, Firebase, Hooks, CSS e Java Script.</br>
- Sou fascinado em boas práticas, princípio de arquiteturas de software e clean code.</br>
- Gosto muito de praticar no [front metor](https://www.frontendmentor.io) é otimo saite, consigo melhorar minhas habilidades e divulgar ao mundo.</br> 
- Conclui vários  projetos pessoais  desenvolvendo em React.</br>
+ Entusiasta e fascinado pelo desenvolvimento mobile. Utilizo constantemente Type Script,React Native,React Js , Styled Component.</br>
+ Busco sempre boas práticas, princípio de arquiteturas de software, clean code é desing software</br>
+ Utilizo muito em meus proojetos composições,altamente recomendado para projetos React Native e Js. Principio do paradigma funcional</br>
  Meu git hub esta repleto de repositorios, utilizo muito como backup dos meu aprendizados e trabalhos que realizei. 
  
 

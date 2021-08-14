@@ -1,6 +1,6 @@
 # Oi eu sou Ricardo
 ### Eu estou atualmente estudando Tecnologia Desenvolvimento em sistemas 
- Entusiasta e fascinado pelo desenvolvimento mobile,PWA. Utilizo constantemente Type Script,React Native,React Js , Styled Component.</br>
+ Entusiasta e fascinado pelo desenvolvimento mobile,PWA. Utilizo constantemente Type Script,React Native,React Js , Styled Component, Kotlin</br>
  Busco sempre boas práticas, princípio de arquiteturas de software, clean code é desing software</br>
  Utilizo muito em meus projetos composições,altamente recomendado para projetos React Native.</br>
  Meu git hub esta repleto de repositorios, utilizo muito como backup dos meu aprendizados e trabalhos que realizei. 

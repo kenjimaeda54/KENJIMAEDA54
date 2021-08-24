@@ -9,10 +9,10 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=gruvbox" />
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="rigth" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=default&hide_progress=false&langs_count=5" />
+  <img align="end" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=default&hide_progress=false&langs_count=5" />
 </a>
 </div> 
 

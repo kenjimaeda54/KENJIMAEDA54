@@ -9,7 +9,7 @@
 
 <p>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  width="400" src="(https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=compact" />
+  <img  width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=default&hide_progress=false&langs_count=5" />

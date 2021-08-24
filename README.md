@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=gruvbox" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&demo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda" />
 </a>
 
 

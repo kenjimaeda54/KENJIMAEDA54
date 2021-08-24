@@ -12,7 +12,7 @@
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=gruvbox&locale=es&custom_title=Minhas estatisticas" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=default&hide_progress=false&langs_count=5&custom_title=Minha dedicação por horasr [:airplane](https://trello.com) ." />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&layout=default&hide_progress=false&langs_count=5&custom_title=Minha dedicação por horasr." [:airplane](https://trello.com) />
 </a>
 </p> 
 

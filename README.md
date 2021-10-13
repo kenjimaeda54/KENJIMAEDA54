@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="45%"   src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical&include_all_commits=true&hide_title=true" />
+  <img align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical&include_all_commits=true&hide_title=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="rigth" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&langs_count=5&hide_title=true" />
+  <img align="rigth" width="47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&langs_count=5&hide_title=true" />
 </a>
 
 

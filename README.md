@@ -1,8 +1,8 @@
 ## Ola  👋, meu nome e Kenji
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&langs_count=5)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical&include_all_commits=true)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kenjimaeda&langs_count=5)
 
 ### :man: SOBRE MIM
 - Desenvolvedor React Native. Amo TypeScript e Kotlin

@@ -1,7 +1,7 @@
 ## Ola  👋, meu nome e Kenji
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical)
 
 ### :man: SOBRE MIM
 - Desenvolvedor React Native. Amo TypeScript e Kotlin

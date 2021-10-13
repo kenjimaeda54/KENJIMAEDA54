@@ -21,8 +21,8 @@
 
 ### :mailbox_closed:
 
--[Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)
--Email: kenjimaedafamily@gmail.com
+- [Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)
+- Email: kenjimaedafamily@gmail.com
 
 ### :triangular_flag_on_post: OBJETIVOS
 - Continuar desenvolvendo em mobile,entrar definitivamente nesta stack. 

@@ -12,8 +12,8 @@
 ### :man: SOBRE MIM
 - Desenvolvedor React Native. Amo TypeScript e Kotlin
 - Meus primeiros contatos com tecnologia  foi nos meados de 2007. Stack era desenvolvimento industrial, com foco em CLP.
-- 2020 voltei aos estudos e aprendi JS pela primeira vez e conheci React JS. 
-- Atualmente continuo no segmento de CLP e alguns trabalhos envolvendo React Native.
+- 2020 voltei aos estudos, aprendi JS pela primeira vez,conheci React JS. 
+- Atualmente continuo no segmento de CLP é  alguns trabalhos envolvendo React Native.
 
 
 ### :rocket: SKILLS

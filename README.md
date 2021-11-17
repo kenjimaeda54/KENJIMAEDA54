@@ -30,6 +30,6 @@
 - Email: kenjimaedafamily@gmail.com
 
 ### :triangular_flag_on_post: OBJETIVOS
-- Continuar desenvolvendo em mobile,entrar definitivamente nesta stack. 
-- Se tornar um desenolvedor solido em React Native e Mobile.
+- Continuar desenvolvendo em mobile. 
+- Se tornar um desenolvedor solido em React Native,React Js e Node js.
 

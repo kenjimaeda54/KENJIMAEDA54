@@ -31,5 +31,5 @@
 
 ### :triangular_flag_on_post: OBJETIVOS
 - Continuar desenvolvendo em mobile. 
-- Se tornar um desenolvedor solido em React Native,React Js e Node js.
+- Se tornar um desenvolvedor solido em React Native,React Js e Node js.
 

@@ -25,7 +25,8 @@
 - React Native: 1 ano e 3 meses
 - React Js: 1 ano e 5 meses
 ```typescript
-{
+{ 
+  soft_sill: ["Auto didata","paciente","resiliente","honesto"];
   java: {
     web_service: [
       "utiliznado plugin JDBC para comunicar com banco Oracle SQL",

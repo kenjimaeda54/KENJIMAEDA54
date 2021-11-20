@@ -24,6 +24,51 @@
 - C: 2 anos
 - React Native: 1 ano e 3 meses
 - React Js: 1 ano e 5 meses
+```typescript
+{
+  java: {
+    web_service: [
+      "utiliznado plugin JDBC para comunicar com banco Oracle SQL",
+      "Crud completo(Create,Update,Delete)",
+      "Servidor Toncat",
+      "Boas praticas de api",
+    ];
+    design_partners: ["DAO", "MVVM(MODEL VIEW VIEW_MODEL)"];
+    tempo_atuando: "Aproximadamente 2 anos";
+  }
+  STL: ["Linguagem industrial para CLP", "Tempo: 7 anos"];
+  Ladder: ["Linguagem industrial para CLP", "Tempo: 12 anos"];
+  C: ["Logica de algoritmos, aplicações em arduino", "Tempo: 2 anos"];
+  React_Native: {
+    skill: [
+      "Context API",
+      "Nesting de rotas",
+      "Hooks",
+      "Paradigma Funcional",
+      "Composicoes",
+      "Componentes Nativos",
+    ];
+    tempo_atuando: "Aproximadamente 1 ano e 5 meses";
+  }
+
+  React_JS: {
+    skill: [
+      "Context API",
+      "Redux",
+      "Html semantico",
+      "Paradigma funcional",
+      "Rotas autenticadas",
+    ];
+    tempo_atuando: "Aproximadamente 1 ano e 4 meses";
+  }
+}
+
+
+
+
+
+
+```
 
 ### :mailbox_closed:
 

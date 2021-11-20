@@ -47,6 +47,7 @@
       "Paradigma Funcional",
       "Composicoes",
       "Componentes Nativos",
+      "Rotas autenticadas",
     ];
     tempo_atuando: "Aproximadamente 1 ano e 5 meses";
   }

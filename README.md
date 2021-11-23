@@ -11,7 +11,7 @@
 
 ### :man: SOBRE MIM
 - Desenvolvedor React Native,React Js
-- Amo TypeScript,React Js,React Native é  Node js
+- Amo Type Script,React Js,React Native é  Node js
 - Meus primeiros contatos com tecnologia  foi nos meados de 2007. Stack era desenvolvimento industrial, com foco em CLP.
 - 2020 voltei aos estudos, aprendi JS pela primeira vez,conheci React JS. 
 - Atualmente continuo no segmento de CLP é  alguns trabalhos envolvendo React Native,React Js

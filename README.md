@@ -18,28 +18,13 @@
 
 
 ### :rocket: SKILLS
-- JAVA: 2 anos
-- LADDER: 12 anos
-- STL: 7 anos
-- C: 2 anos
-- React Native: 1 ano e 3 meses
-- React Js: 1 ano e 5 meses
+- NODE JS
+- REACT NATIVE
+- REACT JS 
+- TYPESCRIPT
 ```typescript
-{ 
-  soft_sill: ["Auto didata","paciente","resiliente","honesto"];
-  java: {
-    web_service: [
-      "utiliznado plugin JDBC para comunicar com banco Oracle SQL",
-      "Crud completo(Create,Update,Delete)",
-      "Servidor Toncat",
-      "Boas praticas de api",
-    ];
-    design_partners: ["DAO", "MVVM(MODEL VIEW VIEW_MODEL)"];
-    tempo_atuando: "Aproximadamente 2 anos";
-  }
-  STL: ["Linguagem industrial para CLP", "Tempo: 7 anos"];
-  Ladder: ["Linguagem industrial para CLP", "Tempo: 12 anos"];
-  C: ["Logica de algoritmos, aplicações em arduino", "Tempo: 2 anos"];
+{
+  soft_sill: ["Auto didata", "paciente", "resiliente", "honesto"];
   React_Native: {
     skill: [
       "Context API",
@@ -50,7 +35,6 @@
       "Componentes Nativos",
       "Rotas autenticadas",
     ];
-    tempo_atuando: "Aproximadamente 1 ano e 5 meses";
   }
 
   React_JS: {
@@ -63,6 +47,11 @@
     ];
     tempo_atuando: "Aproximadamente 1 ano e 4 meses";
   }
+  Node_JS: {
+    skill: ["Express", "Middleware", "Token", "MVC", "REST API"];
+  }
+  ORM_ODM = ["Mongoose", "Sequelize", "TypeOrm-ODM"];
+  BANCO = ["Oracle", "MySQL", "MARAIA DB", "FIREBASE", "SQLITE", "MONGO DB"];
 }
 
 

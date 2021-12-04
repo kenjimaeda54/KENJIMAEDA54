@@ -45,7 +45,6 @@
       "Paradigma funcional",
       "Rotas autenticadas",
     ];
-    tempo_atuando: "Aproximadamente 1 ano e 4 meses";
   }
   Node_JS: {
     skill: ["Express", "Middleware", "Token", "MVC", "REST API"];

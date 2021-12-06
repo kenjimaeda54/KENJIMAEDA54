@@ -47,7 +47,7 @@
     ];
   }
   Node_JS: {
-    skill: ["Express", "Middleware", "Token", "MVC", "REST API"];
+    skill: ["Express", "Middleware", "Token", "MVC", "REST API","bcrypt.js"];
   }
   ORM_ODM = ["Mongoose", "Sequelize", "TypeOrm-ODM"];
   BANCO = ["Oracle", "MySQL", "MARAIA DB", "FIREBASE", "SQLITE", "MONGO DB"];

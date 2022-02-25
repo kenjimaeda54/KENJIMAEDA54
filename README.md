@@ -22,6 +22,7 @@
 - REACT NATIVE
 - REACT JS 
 - TYPESCRIPT
+ 
 ```typescript
 {
   soft_sill: ["Auto didata", "paciente", "resiliente", "honesto"];

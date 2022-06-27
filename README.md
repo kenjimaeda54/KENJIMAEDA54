@@ -10,7 +10,7 @@
 
 
 ### :man: SOBRE MIM
-Sou amamente em codar(principalmente sozinho) sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>
+Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. Sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>
 
 
 Atualmente trabalho como desenvolvimento da web na Jussi. </br>

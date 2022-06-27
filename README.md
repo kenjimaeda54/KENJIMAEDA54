@@ -10,11 +10,17 @@
 
 
 ### :man: SOBRE MIM
-- Desenvolvedor React Native,React Js
-- Amo Type Script,React Js,React Native é  Node js
-- Meus primeiros contatos com tecnologia  foi nos meados de 2007. Stack era desenvolvimento industrial, com foco em CLP.
-- 2019 voltei aos estudos, aprendi JS pela primeira vez,conheci React JS. 
-- Atualmente continuo no segmento de CLP é  alguns trabalhos envolvendo React Native,React Js
+Sou amamente em codar(principalmente sozinho) sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>
+
+
+Atualmente trabalho como desenvolvimento da web na Jussi. </br>
+
+Constantemente envolvido em novos projetos pessoais, free lances ou da comunidade.</br>
+
+Portifolio: [https://portfolio-kvm.netlify.app/](https://portfolio-kvm.netlify.app/) </br>
+
+Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes.
+Bruce Lee
 
 
 ### :rocket: SKILLS

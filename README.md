@@ -32,7 +32,7 @@ Bruce Lee
 - Apple IOS
 - GatsbyJs
 - StencilJs
-- Jam StackSou 
+- Jam Stack 
  
 ### :mailbox_closed:
 

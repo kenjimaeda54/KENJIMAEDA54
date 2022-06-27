@@ -24,49 +24,16 @@ Bruce Lee
 
 
 ### :rocket: SKILLS
-- NODE JS
-- REACT NATIVE
-- REACT JS 
-- TYPESCRIPT
+- JavaScript
+- TypeScript
+- Swift
+- ReactJs
+- React Native
+- Apple IOS
+- GatsbyJs
+- StencilJs
+- Jam StackSou 
  
-```typescript
-{
-  soft_sill: ["Auto didata", "paciente", "resiliente", "honesto"];
-  React_Native: {
-    skill: [
-      "Context API",
-      "Nesting de rotas",
-      "Hooks",
-      "Paradigma Funcional",
-      "Composicoes",
-      "Componentes Nativos",
-      "Rotas autenticadas",
-    ];
-  }
-
-  React_JS: {
-    skill: [
-      "Context API",
-      "Redux",
-      "Html semantico",
-      "Paradigma funcional",
-      "Rotas autenticadas",
-    ];
-  }
-  Node_JS: {
-    skill: ["Express", "Middleware", "Token", "MVC", "REST API","bcrypt.js"];
-  }
-  ORM_ODM = ["Mongoose", "Sequelize", "TypeOrm-ODM"];
-  BANCO = ["Oracle", "MySQL", "MARAIA DB", "FIREBASE", "SQLITE", "MONGO DB"];
-}
-
-
-
-
-
-
-```
-
 ### :mailbox_closed:
 
 - [Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)

@@ -32,6 +32,7 @@ Bruce Lee
 - GatsbyJs
 - StencilJs
 - Jam Stack 
+- Module Federation
  
 ### :mailbox_closed:
 

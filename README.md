@@ -17,7 +17,6 @@ Atualmente trabalho como desenvolvimento da web na Jussi. </br>
 
 Constantemente envolvido em novos projetos pessoais, free lances ou da comunidade.</br>
 
-Portifolio: [https://portfolio-kvm.netlify.app/](https://portfolio-kvm.netlify.app/) </br>
 
 Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes.
 Bruce Lee

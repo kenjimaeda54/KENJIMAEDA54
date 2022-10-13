@@ -16,7 +16,7 @@ Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente c
 Atualmente trabalho como desenvolvimento da web na Jussi. </br>
 
 Constantemente envolvido em novos projetos pessoais, free lances ou da comunidade.</br>
-[Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)
+[Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)   
 [My skills](https://kvm-skills.onrender.com/)
 
 Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes.

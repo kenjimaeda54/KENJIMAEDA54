@@ -1,7 +1,7 @@
 ## Ola  👋, meu nome e Kenji
 
 ![Kenji](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimaeda54&theme=tokyonight)
+
 
 
 ### :man: SOBRE MIM

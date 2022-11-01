@@ -1,10 +1,6 @@
 ## Ola  👋, meu nome e Kenji
 
-
-<a href="https://github.com/kenjimaeda54/github-readme-stats">
-  <img align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical&include_all_commits=true&hide_title=true" />
-</a>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=transparent)
 
 ### :man: SOBRE MIM
 Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. Sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>

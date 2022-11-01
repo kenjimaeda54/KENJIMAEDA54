@@ -1,7 +1,7 @@
 ## Ola  👋, meu nome e Kenji
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kenjimaeda54/github-readme-stats">
   <img align="left" width="47%"   src="https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical&include_all_commits=true&hide_title=true" />
 </a>
 

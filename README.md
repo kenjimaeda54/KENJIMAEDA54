@@ -1,7 +1,6 @@
 ## Ola  👋, meu nome e Kenji
 
 ![Kenji](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimaeda54&repo=github-profile-languages)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :man: SOBRE MIM
 Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. Sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>

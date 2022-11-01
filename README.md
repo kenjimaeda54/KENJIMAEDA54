@@ -2,7 +2,7 @@
 
 ![Kenji](https://github-readme-stats.vercel.app/api?username=kenjimaeda54&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimaeda54)]
 
 ### :man: SOBRE MIM
 Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. Sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>

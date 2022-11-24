@@ -5,18 +5,27 @@
 
 
 ### :man: SOBRE MIM
-Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. Sou formado em Analise Desenvolvimento de Sistemas na Fiap. </br>
+Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. 
 
+Trabalhei em grandes projetos profissionalmente React Native,React Js é Gatsby.
+Nestes projetos envolvia navegação entre rotas, gerenciamentos de estados, manipulação de datas, requisições em Rest Api, GraphQL. 
 
-Atualmente trabalho como desenvolvimento da web na Jussi. </br>
+Também  realizei vários projetos pessoais com casos de uso reais, problemas comuns encontrados em software com Swift, React Native e React JS.
+Entre esses problemas estavam requisições HTTP, mudança dinamicamente das views, protocolos ,delegates, manipulações de hardware (camera, gps, bluetooth), autenticação.   
 
-Constantemente envolvido em novos projetos pessoais, free lances ou da comunidade.</br>
+Sou formado em Analise Desenvolvimento de Sistemas na Fiap. 
+
+Constantemente envolvido em novos projetos pessoais, free lances ou da comunidade.
+
+:memo:
+[Closure em JavaScript,Swift e Dart](https://www.linkedin.com/pulse/closure-em-swiftdart-e-javascript-ricardo-maeda)
+
+### :mailbox_closed:
 [Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)   
 [My skills](https://kvm-skills.onrender.com/)
 
 Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes.
 Bruce Lee
-
 
 ### :rocket: SKILLS
 - JavaScript
@@ -30,10 +39,6 @@ Bruce Lee
 - Jam Stack 
 - Module Federation
  
-### :mailbox_closed:
-
-- [Linkedin](https://www.linkedin.com/in/kenjimaeda1233/)
-- Email: kenjimaedafamily@gmail.com
 
 ### :triangular_flag_on_post: OBJETIVOS
 - Continuar desenvolvendo em mobile. 

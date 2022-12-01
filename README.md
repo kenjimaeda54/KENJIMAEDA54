@@ -5,17 +5,28 @@
 
 
 ### :man: SOBRE MIM
-Sou amamente em codar(principalmente sozinho), amo estar envolvido diretamente com usuário final, criando interfaces responsivas, dignas aos requisitos funcionais e performáticas. 
+Habilidade em gerenciar, manter é desenvolver projetos em Swift( UIKIT, SwiftUI, Core Location, Câmera, User Defaults, Json Parsing, Core Data, .xib ), React Native( Câmera, GPS, Contexto Provider,Hooks, Redux, Nesiting de Navegações) e front end com React JS é Gatbsy. 
 
-Trabalhei em grandes projetos profissionalmente React Native,React Js é Gatsby.
-Nestes projetos envolvia navegação entre rotas, gerenciamentos de estados, manipulação de datas, requisições em Rest Api, GraphQL. 
+Desenvolvimento front end pode participar de vários projetos reais, destaque foi com cliente Whirlpool na aplicação do "Compra Certa", exatamente no squad Gamification. 
+Era responsável por implementar features, manutenções e melhoria no código. 
+No squad core da Whirlpool criei algumas landings pages, atuando exclusivamente sozinho no desenvolvimento. 
+Entre elas tenho orgulho da Geladeira Brastemp Frost Free French Door BRO85.
+[Gealdeira Frost Free](https://geladeira.brastemp.com.br/BRO85/)
 
-Também  realizei vários projetos pessoais com casos de uso reais, problemas comuns encontrados em software com Swift, React Native e React JS.
-Entre esses problemas estavam requisições HTTP, mudança dinamicamente das views, protocolos ,delegates, manipulações de hardware (camera, gps, bluetooth), autenticação.   
+Desenvolvi vários projetos ao longo da minha carreira em móbile, em Swift pode espelhar um caso de uso real de uma locadora de veículos. Nele consumia uma API, com as datas disponíveis para aluguel, os carros e registro dos carros alugados.
+Aplicativo haviam 5 telas, envolvendo navegação, gerenciamento de Cocoapods, View code, Interface Builder.
+[Código raiz](https://github.com/kenjimaeda54/rentex-your-rent-cars)
 
-Sou formado em Analise Desenvolvimento de Sistemas na Fiap. 
+React native trabalhei em vários projetos freelances como Veget um projeto bem grande é Qandac que inclusive está na loja da google play. 
+No Qandac recebi a proposta de corrigir o aplicativo é migrar tudo para Firebase, pois atualmente esta com inconsistência na loja.
+Neste aplicativo trabalhei com Contexto Provider, navegação, Firebase, autenticação.
 
-Constantemente envolvido em novos projetos pessoais, free lances ou da comunidade.
+Flluter estou atualmente estudando bastante é realizando pequenos projetos que são problemas cotidianos encontrados no mundo real
+
+Eu gosto de sair com meu cachorros, passear com a minha família. 
+Sou cristão, acredito muito em Deus.
+Gosto muito de codar, inclusive minha família me gerencia, pois tem dias que passo 17 horas em frente o computador.
+
 
 :memo:
 [Closure em JavaScript,Swift e Dart](https://www.linkedin.com/pulse/closure-em-swiftdart-e-javascript-ricardo-maeda)

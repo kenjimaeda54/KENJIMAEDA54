@@ -23,9 +23,7 @@ Neste aplicativo trabalhei com Contexto Provider, navegação, Firebase, autenti
 
 Flluter estou atualmente estudando bastante é realizando pequenos projetos que são problemas cotidianos encontrados no mundo real.</br>
 
-Eu gosto de sair com meu cachorros, passear com a minha família. </br>
-Sou cristão, acredito muito em Deus.</br>
-Gosto muito de codar, inclusive minha família me gerencia, pois tem dias que passo 17 horas em frente o computador.</br>
+Eu gosto de sair com meu cachorros, passear com a minha família e codar.</br>
 
 
 :memo:

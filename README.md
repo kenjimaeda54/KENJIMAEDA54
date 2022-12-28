@@ -11,7 +11,7 @@ Desenvolvimento front end pode participar de vários projetos reais, destaque fo
 Era responsável por implementar features, manutenções e melhoria no código. </br>
 No squad core da Whirlpool criei algumas landings pages, atuando exclusivamente sozinho no desenvolvimento. </br>
 Entre elas tenho orgulho da Geladeira Brastemp Frost Free French Door BRO85.</br>
-[Gealdeira Frost Free](https://geladeira.brastemp.com.br/BRO85/)
+
 
 Desenvolvi vários projetos ao longo da minha carreira em móbile, em Swift pode espelhar um caso de uso real de uma locadora de veículos. Nele consumia uma API, com as datas disponíveis para aluguel, os carros e registro dos carros alugados.</br>
 Aplicativo haviam 5 telas, envolvendo navegação, gerenciamento de Cocoapods, View code, Interface Builder.</br>

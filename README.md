@@ -7,7 +7,7 @@
 
 
 ### :man: SOBRE MIM
-Habilidade em gerenciar, manter é desenvolver projetos em Swift( UIKIT, SwiftUI, Core Location, Câmera, User Defaults, Json Parsing, Core Data, .xib ), React Native( Câmera, GPS, Contexto Provider,Hooks, Redux, Nesiting de Navegações) .</br> 
+Habilidade em gerenciar, manter é desenvolver projetos em Swift( UIKIT, SwiftUI, Core Location, Câmera, User Defaults, Json Parsing, Core Data, .xib ), React Native( Câmera, GPS, Contexto Provider,Hooks, Redux, Nesiting de Navegações), Flutter(Interfaces responsivas,Nesting de Navegações,Provider,HTTP e API Rest,Camera,Mapas,SQLite,Animações,Modulos Nativos) .</br> 
 </br>
 
 Ao longo da minha carreira trabalhando como autônomo é tempo integral, pode estar envolvidos em projetos bem complexos envolvendo React Native, IOS,Android principalmente quando eu era o único responsável por atingir os resultados, como e caso de trabalhos autônomo. </br>

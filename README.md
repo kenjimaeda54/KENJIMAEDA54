@@ -26,20 +26,11 @@ Eu gosto de sair com meu cachorro, passear com a minha família e aprender.</br>
 
 
 ### :rocket: SKILLS
-Front end:
-- JavaScript
-- TypeScript
-- ReactJs
-- NextJs
-- Webpack
-- Stencil
-- Module Federation
+- Kotlin
+- Typescript
+- Dart
+- Swift
 
-Mobile: 
-- React Native
-- Flutter
-- IOS
- 
 
 ### :triangular_flag_on_post: OBJETIVOS
 - Continuar desenvolvendo em mobile. 

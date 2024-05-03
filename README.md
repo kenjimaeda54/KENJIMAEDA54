@@ -7,13 +7,9 @@
 
 
 ### :man: SOBRE MIM
-Habilidade em gerenciar, manter é desenvolver projetos em Swift( UIKIT, SwiftUI, Core Location, Câmera, User Defaults, Json Parsing, Core Data, .xib ), React Native( Câmera, GPS, Contexto Provider,Hooks, Redux, Nesiting de Navegações), Flutter(Interfaces responsivas,Nesting de Navegações,Provider,HTTP e API Rest,Camera,Mapas,SQLite,Animações,Modulos Nativos) .</br> 
-</br>
-
-Ao longo da minha carreira trabalhando como autônomo e tempo integral, pode estar envolvidos em projetos bem complexos envolvendo React Native, IOS,Flutter principalmente quando eu era o único responsável por atingir os resultados, como e caso de trabalhos autônomos. </br>
-A maioria da minha carreira foi de maneira independente, então pode participa de várias áreas de negócios, códigos de pessoas diferentes, diferentes arquiteturas e diversos casos de usos não cotidianos, sem dúvidas isto me torna um canivete suíço. 
-
-Eu gosto de sair com meu cachorro, passear com a minha família e aprender.</br>
+Comecei em meados de 2005 na época desenvolvimento era baixo nível, programação:   C , Assembly e STL.  
+Em 2015 no Instituto Federal de São Paulo, aconteceu oportunidade de conhecer desenvolvimento mobile em um projeto para iniciação científica, me identifiquei, aproximadamente entre 2105 até 2017 fiquei apenas estudando, após isto decidi trancar a faculdade e iniciar Análise Desenvolvimento de Sistemas na Fiap, então desde 2017 venho trabalhando em projetos pessoais e  trabalhos autônomos(Quandac,Veget e Mumu) 
+Em 2023 houve a oportunidade do primeiro trabalho no meio empresarial, com foco desenvolvimento mobile(trabalhei anteriormente com React, mas para desenvolvimento web), assumi o cargo de Analista Engenharia de Software  Pleno, assim que entrei me identificaram como especialista, pois provei imediatamente minha qualidade é assumi a implementação desempenho do aplicativo que era algo que estava péssimo(alguns momentos aplicativo travava), trabalhei em paralelo do projeto conseguindo corrigir e implementei uma nova maneira de trabalhar, após isto surgiu muitas oportunidades internas inclusive atuei sozinho no desenvolvimento mobile em um projeto de importância da empresa em Flutter, que estava em risca perca de contrato.
 
 
 :memo:

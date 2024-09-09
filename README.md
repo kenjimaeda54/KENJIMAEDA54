@@ -7,15 +7,10 @@
 
 
 ### :man: SOBRE MIM
-Comecei em meados de 2005 na época desenvolvimento era baixo nível, programação em C, assembly e STL. 
-Em 2015 no Instituto Federal de São Paulo, aconteceu oportunidade de conhecer desenvolvimento mobile em um projeto para iniciação científica, aproximadamente entre 2105 até 2017 foquei nos estudos, decidi encerrar a faculdade, iniciei Análise Desenvolvimento de Sistemas na Fiap, então desde 2017 venho trabalhando em projetos pessoais e trabalhos autônomos(Quandac, Veget e Mumu) 
-Hoje atuo no desenvolvimento mobile, como   Analista Engenharia de Software Pleno.
-Maior feito atualmente da minha carreira, foi solução de um problema desempenho em um aplicativo em React Native(Atacadão) 
-Proposta da solução é implementação foi feita exclusivamente por mim, atuei paralelo ao projeto individualmente para poder realizar os casos de estudos para provar a solução, após concluído iniciei a implementação, inclusive fui responsável como gestor técnico, pois orientei pessoas para atuar comigo até o fim da implementação e posteriormente fiz palestras internas para orientar como manter o projeto a fim de evitar novamente perca desempenho. Anteriormente ninguém que atuava conseguiram de fato apresentar melhorias que surgiam efeito em tempo de carregamento, fluidez em 60 fps da tela é desempenho entre as requisições, após isto surgiu muitas oportunidades internas inclusive atuei sozinho no desenvolvimento mobile em um projeto de importância da empresa em Flutter, que estava em risca perca de contrato.
-Minha especialidade inclui: React Native, Flutter, SwiftUi, Compose, TypeScript, S
-wift, Kotlin
-
-Normalmente gosto de jogar videogame nos tempos livres, nos finais de semana sair com minha família(cachorro e esposa).
+ Desenvolvedor mobile com  4+ anos de experiência, meus primeiros passos, foi React Native, já atuei com essa tecnologia em grandes projetos como do Atacadão de São Paulo.
+ Recentemente estou atuando com Flutter na Imetrics  e em paralelo estudando SwiftUI e Compose principalmente com o lançamento do KMP(Koltin Múltipla Plataforma )
+ Sou formado em Análise Desenvolvimento de Sistemas.
+ Consigo trabalhar de forma independente, inclusive já atuei dessa maneira em vários projetos, participando das cerimônias das entregas no formato de Kanban e Scrum
 
 
 :memo:

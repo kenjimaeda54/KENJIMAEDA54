@@ -7,10 +7,10 @@
 
 
 ### :man: SOBRE MIM
- Desenvolvedor mobile com  4+ anos de experiência, meus primeiros passos, foi React Native, já atuei com essa tecnologia em grandes projetos como do Atacadão de São Paulo.
- Recentemente estou atuando com Flutter na Imetrics  e em paralelo estudando SwiftUI e Compose principalmente com o lançamento do KMP(Koltin Múltipla Plataforma )
- Sou formado em Análise Desenvolvimento de Sistemas.
- Consigo trabalhar de forma independente, inclusive já atuei dessa maneira em vários projetos, participando das cerimônias das entregas no formato de Kanban e Scrum
+Sou formado em Análise Desenvolvimento de Sistemas.
+Consigo trabalhar de forma independente, inclusive já atuei dessa maneira em vários projetos, participando das cerimônias das entregas no formato de Kanban e Scrum.
+Atuando como Desenvolvedor Mobile há mais de 3 anos, tive a oportunidade de aplicar minhas habilidades em React Native em projetos de grande escala, como o Atacadão de São Paulo. 
+Recentemente, tenho trabalhado com Flutter, React Native e Compose (Android Nativo) na Imetrics, enquanto também aprimoro meus conhecimentos em SwiftUI e KMP.
 
 
 :memo:

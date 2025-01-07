@@ -7,10 +7,11 @@
 
 
 ### :man: SOBRE MIM
-Sou formado em Análise Desenvolvimento de Sistemas.
+Desenvolvedor mobile especializado em React Native, Compose(Android Nativo) e Flutter.
 Consigo trabalhar de forma independente, inclusive já atuei dessa maneira em vários projetos, participando das cerimônias das entregas no formato de Kanban e Scrum.
-Atuando como Desenvolvedor Mobile há mais de 3 anos, tive a oportunidade de aplicar minhas habilidades em React Native em projetos de grande escala, como o Atacadão de São Paulo. 
-Recentemente, tenho trabalhado com Flutter, React Native e Compose (Android Nativo) na Imetrics, enquanto também aprimoro meus conhecimentos em SwiftUI e KMP.
+Atuando como Desenvolvedor Mobile desde 2021, anteriormente trabalhava em baixo nível(C,STL,IL). 
+Houve oportunidade de aplicar minhas habilidades em React Native em projetos de grande escala, como o Atacadão de São Paulo, onde fui o responsável pela melhoria do desempenho do aplicativo. Sugeri a correção, implementei é depois treinei para manterem. 
+Recentemente, tenho trabalhado com Flutter, React Native e Compose (Android Nativo), enquanto também aprimoro meus conhecimentos em SwiftUI,KMP(Kotlin Multiplataforma) e Kotlin com Spring Boot
 
 
 :memo:

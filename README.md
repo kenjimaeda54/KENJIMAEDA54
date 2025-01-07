@@ -28,9 +28,13 @@ Recentemente, tenho trabalhado com Flutter, React Native e Compose (Android Nati
 - Typescript
 - Dart
 - Swift
+- SwiftUi (IOS)
+- JetPack Compose(Android)
+- KMP(Kotlin Multiplataforma)
+- Flutter
 
 
 ### :triangular_flag_on_post: OBJETIVOS
 - Continuar desenvolvendo em mobile. 
-- Se tornar um desenvolvedor solido em React Native,React Js e IOS.
+- Se tornar um desenvolvedor solido em desenvolvimento mobile
 

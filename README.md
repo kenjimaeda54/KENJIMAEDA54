@@ -93,14 +93,5 @@ Proven ability to act as a **technical reference**, contributing to architectura
 * Lead technically complex mobile initiatives
 * Collaborate with international teams on high-impact products
 
----
 
-Se quiser, posso:
-
-* deixar ainda mais **arquitetural (Mobile Architect track)**
-* adaptar para **Staff / Principal Mobile Engineer**
-* focar em **KMP-first architecture**
-* otimizar para **recrutadores FAANG / Big Tech**
-
-É só me dizer 💡
 

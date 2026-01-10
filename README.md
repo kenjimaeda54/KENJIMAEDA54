@@ -1,8 +1,3 @@
-Perfeito 🚀
-Abaixo está a versão **adaptada para Senior Mobile Engineer**, com **forte foco arquitetural**, linguagem técnica e alinhada ao que **tech leads, arquitetos e recrutadores sênior** procuram.
-
----
-
 ## Hi 👋, my name is Kenji
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kenjimaeda54\&theme=highcontrast\&hide_border=true\&locale=en\&date_format=M%20j%5B2C%20Y%5D\&mode=weekly)](https://git.io/streak-stats)

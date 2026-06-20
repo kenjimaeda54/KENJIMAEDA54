@@ -6,9 +6,9 @@
 
 ---
 
-### 👨‍💻 SENIOR MOBILE SOFTWARE ENGINEER
+### 👨‍💻  MOBILE SOFTWARE ENGINEER
 
-Senior Mobile Engineer with extensive experience in **cross-platform and native mobile development**, specializing in **React Native**, **Flutter**, and **Jetpack Compose (Android)**.
+Mobile Engineer with extensive experience in **cross-platform and native mobile development**, specializing in **React Native**, **Flutter**, and **Jetpack Compose (Android)**.
 
 Since **2021**, working on **production-grade, large-scale mobile applications**, with a strong focus on **software architecture**, **performance**, **scalability**, and **long-term maintainability**. Solid background in **low-level programming (C, STL, IL)**, enabling deep understanding of memory management, threading, and runtime performance.
 
@@ -73,12 +73,6 @@ Proven ability to act as a **technical reference**, contributing to architectura
 
 ---
 
-### 📚 TECHNICAL ARTICLES
-
-[Closures in JavaScript, Swift and Dart](https://www.linkedin.com/pulse/closure-em-swiftdart-e-javascript-ricardo-maeda)
-
----
-
 ### 📫 CONTACT
 
 [LinkedIn](https://www.linkedin.com/in/kenjimaeda1233/)
@@ -92,6 +86,10 @@ Proven ability to act as a **technical reference**, contributing to architectura
 * Design and evolve **scalable mobile architectures**
 * Lead technically complex mobile initiatives
 * Collaborate with international teams on high-impact products
+
+---- 
+
+
 
 
 

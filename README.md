@@ -8,7 +8,7 @@
 
 **Software Engineer** building high-performance, resilient software by bridging native mobile architecture with modern AI engineering. My foundation is in low-level systems (C, C++, Assembly) and industrial automation, and today I architect scalable mobile apps and autonomous AI pipelines.
 
-📍 [City, Brazil] · 🟢 Open to [remote roles / freelance projects]
+📍 [São Paulo, Brazil] · 🟢 Open to [freelance projects]
 
 ---
 
@@ -74,7 +74,7 @@
 
 🔭 Building AI agents with LangGraph (Reflexion pattern, tool use, RAG)
 📚 Learning Kotlin Multiplatform for shared domain logic across Android and iOS
-🤝 Open to [remote roles / freelance projects]
+🤝 Open to [freelance projects]
 ---
 
 ### 📫 Contact

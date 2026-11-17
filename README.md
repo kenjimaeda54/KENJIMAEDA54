@@ -61,7 +61,7 @@ I build high-performance, resilient software by bridging deep native mobile arch
 ### 📫 CONTACT
 
 [LinkedIn](https://www.linkedin.com/in/kenjimaeda1233/)
-[Portfolio](https://portifolio-kenji-ubuntu.onrender.com))
+[Portfolio](https://portifolio-kenji-ubuntu.onrender.com)
 
 ---
 

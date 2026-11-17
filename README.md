@@ -2,8 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kenjimaeda54\&theme=highcontrast\&hide_border=true\&locale=en\&date_format=M%20j%5B2C%20Y%5D\&mode=weekly)](https://git.io/streak-stats)
 
-![Kenji](https://github-readme-stats.vercel.app/api?username=kenjimaeda54\&show_icons=true\&theme=radical)
-
 ---
 
 ### 👨‍💻  SOFTWARE ENGINEER

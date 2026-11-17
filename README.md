@@ -4,69 +4,81 @@
 
 ---
 
-### 👨‍💻  SOFTWARE ENGINEER
+## 👋 Hi, I'm Kenji
 
-I build high-performance, resilient software by bridging deep native mobile architecture with modern AI engineering. With a strong engineering foundation starting in low-level systems (C, C++, Assembly) and industrial automation, I specialize in architecting scalable mobile applications and autonomous AI pipelines.
+**Software Engineer** building high-performance, resilient software by bridging native mobile architecture with modern AI engineering. My foundation is in low-level systems (C, C++, Assembly) and industrial automation, and today I architect scalable mobile apps and autonomous AI pipelines.
 
-𝗪𝗛𝗔𝗧 𝗜 𝗗𝗢 & 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗜𝗠𝗣𝗔𝗖𝗧:
+📍 [City, Brazil] · 🟢 Open to [remote roles / freelance projects]
 
-• 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 (𝗔𝗻𝗱𝗿𝗼𝗶𝗱, 𝗶𝗢𝗦 & 𝗞𝗠𝗣): Expert in Kotlin (Jetpack Compose, Coroutines, Flow), Swift (SwiftUI), and Kotlin Multiplatform. Designed modular MVI/Clean Architecture systems, including centralizing core domain logic into shared KMP/Commons modules.
-• 𝗛𝗶𝗴𝗵-𝗜𝗺𝗽𝗮𝗰𝘁 𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝗮𝗯𝗹𝗲𝘀: Scaled automated test coverage from 𝟱𝟱% 𝘁𝗼 𝟴𝟴% (JUnit, MockK) on banking/insurance features. Developed high-security flows (Pix Protection) awarded Best Performance 2025 (Gold).
-• 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 & 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻: Hands-on experience building autonomous AI agents, RAG pipelines, and microservices using Python, FastAPI, LangChain, n8n, and MCP (Model Context Protocol).
+---
 
-𝗪𝗛𝗘𝗧𝗛𝗘𝗥 𝗬𝗢𝗨 𝗡𝗘𝗘𝗗 𝗧𝗢:
+### 🛠️ Tech Stack
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/KMP-7F52FF?logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+
+---
+
+### 💼 What I Do
+
+- **Mobile Architecture (Android, iOS & KMP):** Kotlin (Jetpack Compose, Coroutines, Flow), Swift (SwiftUI) and Kotlin Multiplatform. I design modular MVI/Clean Architecture systems and centralize core domain logic into shared KMP modules.
+- **Quality & Delivery:** Raised automated test coverage from **55% to 88%** (JUnit, MockK) on banking and insurance features.
+- **AI Engineering & Automation:** Autonomous AI agents, RAG pipelines and microservices with Python, FastAPI, LangChain, n8n and MCP (Model Context Protocol).
+
+### 🤝 How I Can Help
+
 - Architect modular native mobile apps or shared KMP cores
 - Recover critical delayed features and modernize legacy codebases
-- Integrate AI agents and automated LLM workflows into digital products
+- Integrate AI agents and LLM workflows into digital products
 
 ---
 
-**🏆 Carrefour — Pix Transaction Protection (Android, Kotlin)**
-- Contributed to a critical payment security flow using Jetpack Compose and 
-  Clean Architecture/MVI, resulting in a solution recognized with the 
-  **Best Performance 2025 Award (Gold)** for delivering security and performance 
-  to millions of users
-- Took ownership of a delayed, high-priority Card Unlock Insurance feature, 
-  restructuring the implementation plan and resulting in on-time delivery 
-  under a reduced deadline
+### 🏆 Selected Work
 
-**⚡ Data Company — Flutter Application**
-- Led a caching initiative using Riverpod that eliminated unnecessary API calls, 
-  resulting in significantly faster screen load
+**Carrefour: Pix Transaction Protection** (Android, Kotlin)
+*Pix is Brazil's instant payment system.*
+- Built a critical payment security flow with Jetpack Compose and Clean Architecture/MVI, awarded **Best Performance 2025 (Gold)** for security and performance at the scale of millions of users
+- Took ownership of a delayed, high-priority Card Unlock Insurance feature, restructured the implementation plan and delivered on time under a reduced deadline
 
----
+**[Industry/size] Data Company: Flutter Application**
+- Led a caching initiative with Riverpod that eliminated unnecessary API calls, cutting screen load time by **[X%]**
 
-### 🏛️ ARCHITECTURE & TECHNICAL LEADERSHIP
-
-* Definition and implementation of **mobile architectures** (Clean Architecture, MVVM, Modularization)
-* Design of **scalable and maintainable codebases** for large teams
-* Performance tuning (render optimization, memory usage, threading, bridge optimization)
-* Technical ownership of critical features and system components
-* Mentoring developers and conducting technical reviews
-* Collaboration with product, backend, and design teams
+**Atacadão (São Paulo): React Native**
+- Refactored architectural bottlenecks in a high-traffic app, reducing rendering overhead and optimizing state management **[add metric if you have one]**
+- Defined best practices and guidelines, and enabled internal teams through knowledge transfer
 
 ---
 
-### 🏗️ EXPERIENCE HIGHLIGHTS
+### 🏛️ Technical Leadership
 
-* Architectural and performance improvements in a high-traffic **React Native** application (**Atacadão – São Paulo**)
-* Identification of architectural bottlenecks and refactoring for scalability
-* Reduction of rendering overhead and optimization of state management
-* Definition of best practices and architectural guidelines
-* Knowledge transfer and technical enablement of internal teams
+- Defining and implementing mobile architectures (Clean Architecture, MVVM, modularization) for large teams
+- Performance tuning: rendering, memory usage, threading, bridge optimization
+- Mentoring developers, running technical reviews, and collaborating with product, backend and design
 
 ---
 
-### 📫 CONTACT
+### 🤖 AI Projects
 
-[LinkedIn](https://www.linkedin.com/in/kenjimaeda1233/)
-[Portfolio](https://portifolio-kenji-ubuntu.onrender.com)
+- [**project-name**](link): short description (e.g., RAG agent with FastAPI + LangChain)
+- [**project-name**](link): short description (e.g., MCP server for ...)
+
+### 🌱 Currently
+
+Building [...] · Learning [...]
 
 ---
 
+### 📫 Contact
 
-
-
+[LinkedIn](https://www.linkedin.com/in/kenjimaeda1233/) · [Portfolio](https://portifolio-kenji-ubuntu.onrender.com) · [your@email.com](mailto:your@email.com)
 
 
 

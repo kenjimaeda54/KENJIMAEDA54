@@ -1,6 +1,6 @@
 ## Hi 👋, my name is Kenji
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenjimaeda54\&theme=highcontrast\&hide_border=true\&locale=en\&date_format=M%20j%5B2C%20Y%5D\&mode=weekly)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimaeda54&layout=compact&theme=transparent&hide_border=true)
 
 ---
 

@@ -1,9 +1,3 @@
-## Hi 👋, my name is Kenji
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjimaeda54&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ## 👋 Hi, I'm Kenji
 
 **Software Engineer** building high-performance, resilient software by bridging native mobile architecture with modern AI engineering. My foundation is in low-level systems (C, C++, Assembly) and industrial automation, and today I architect scalable mobile apps and autonomous AI pipelines.

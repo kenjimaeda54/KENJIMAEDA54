@@ -72,8 +72,9 @@
 
 ### 🌱 Currently
 
-Building [...] · Learning [...]
-
+🔭 Building AI agents with LangGraph (Reflexion pattern, tool use, RAG)
+📚 Learning Kotlin Multiplatform for shared domain logic across Android and iOS
+🤝 Open to [remote roles / freelance projects]
 ---
 
 ### 📫 Contact

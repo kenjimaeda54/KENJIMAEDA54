@@ -48,7 +48,7 @@
 - Built a critical payment security flow with Jetpack Compose and Clean Architecture/MVI, awarded **Best Performance 2025 (Gold)** for security and performance at the scale of millions of users
 - Took ownership of a delayed, high-priority Card Unlock Insurance feature, restructured the implementation plan and delivered on time under a reduced deadline
 
-**[Industry/size] Data Company: Flutter Application**
+**Drunwave: Flutter Application**
 - Led a caching initiative with Riverpod that eliminated unnecessary API calls, cutting screen load time by **[X%]**
 
 **Atacadão (São Paulo): React Native**
@@ -67,8 +67,8 @@
 
 ### 🤖 AI Projects
 
-- [**project-name**](link): short description (e.g., RAG agent with FastAPI + LangChain)
-- [**project-name**](link): short description (e.g., MCP server for ...)
+- [**reflexion_agent_langgraph**](https://github.com/kenjimaeda54/reflexion_agent_langgraph): Research agent built with **LangGraph** using the Actor/Reflexion pattern. It answers a question, critiques its own answer, runs parallel web searches (Tavily) and rewrites the answer with numbered citations in a bounded loop. Pydantic schemas enforce structured output. *Python · LangGraph · LangChain · Pydantic · Tavily*
+- [**n8n_workflows**](https://github.com/kenjimaeda54/n8n_workflows): Collection of 27 n8n automations with AI agents, RAG over vector stores, MCP integrations and Telegram bots. Includes a finance assistant that logs and queries credit card spending in Google Sheets from text or voice messages. *n8n · OpenAI · RAG · MCP · Telegram · Google Sheets*
 
 ### 🌱 Currently
 

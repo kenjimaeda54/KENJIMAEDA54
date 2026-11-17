@@ -78,7 +78,7 @@ Building [...] · Learning [...]
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/kenjimaeda1233/) · [Portfolio](https://portifolio-kenji-ubuntu.onrender.com) · [your@email.com](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/kenjimaeda1233/) · [Portfolio](https://portifolio-kenji-ubuntu.onrender.com) · [kenjimaedafamily@gmail.com](mailto:kenjimaedafamily@gmail.com)
 
 
 
